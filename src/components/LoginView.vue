@@ -51,7 +51,7 @@ function login() {
 
 <style>
 .fondo {
-  background: url("C:\Users\humbe\Downloads\SalonBelleza\SalonDeBelleza\public\header.jpg");
+  background: url("/header.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
