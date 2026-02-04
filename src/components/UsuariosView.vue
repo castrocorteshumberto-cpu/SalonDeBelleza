@@ -198,7 +198,7 @@ function openModal(action, user = {}) {
 }
 
 .barralateral {
-  background-image: url("C:\Users\humbe\Downloads\SalonBelleza\SalonDeBelleza\src\assets\barra.jpg");
+  background-image: url("C:\Users\humbe\Downloads\SalonBelleza\SalonDeBelleza\public\barra.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -285,7 +285,7 @@ td {
 }
 
 thead {
-  background-image: url("C:\Users\humbe\Downloads\SalonBelleza\SalonDeBelleza\src\assets\barra.jpg");
+  background-image: url("C:\Users\humbe\Downloads\SalonBelleza\SalonDeBelleza\public\barra.jpg");
   color: white;
   font-size: 11px;
 
