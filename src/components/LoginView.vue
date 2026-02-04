@@ -38,13 +38,12 @@ function login() {
         </div>
       </div>
       <div class="derecha">
-        <h1>Iniciar Sesión</h1>
+        <h1 id="h1fondo">Iniciar Sesión</h1>
+        <br />
         <input type="text" placeholder="Escribe aqui tu Correo Electronico" />
         <input type="password" placeholder="Escribe aqui tu Contraseña" />
 
         <button @click="login">Confirmar</button>
-
-        <a href="">Registrarse</a>
       </div>
     </div>
   </div>
@@ -59,6 +58,10 @@ function login() {
   justify-items: center;
   align-items: center;
   align-content: center;
+}
+
+#h1fondo {
+  color: white;
 }
 
 .ContenedorPrincipal {

@@ -77,7 +77,7 @@ function openModal(action, user = {}) {
                       })
                     "
                   >
-                    <i class="fa-solid fa-eye"></i>
+                    <i class="fa-solid fa-pencil"></i>
                   </button>
                   <button
                     class="accion"
@@ -115,7 +115,7 @@ function openModal(action, user = {}) {
                       })
                     "
                   >
-                    <i class="fa-solid fa-eye"></i>
+                    <i class="fa-solid fa-pencil"></i>
                   </button>
                   <button
                     class="accion"
@@ -153,7 +153,7 @@ function openModal(action, user = {}) {
                       })
                     "
                   >
-                    <i class="fa-solid fa-eye"></i>
+                    <i class="fa-solid fa-pencil"></i>
                   </button>
                   <button
                     class="accion"
